@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1730822316,
+      "filename": "GenesisOS-4.0-Verve-cupidr-OFFICIAL-20241105-1600.zip",
+      "id": "d3b20d8a5b14c8ccf605d95ed1500294126edc835ff9b4b657fbb85d2233fbdd",
+      "size": 2837443528,
+      "url": "https://dl.genesisos.dev/0:/cupidr/GenesisOS-4.0-Verve-cupidr-OFFICIAL-20241105-1600.zip",
+      "version": "Verve",
+      "devicename": "Realme GT 5G",
+      "maintainer": "MNoxx74"
+    }
+  ]
+}
