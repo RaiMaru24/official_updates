@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1730818031,
+      "filename": "GenesisOS-4.0-Verve-beryllium-OFFICIAL-20241105-1449.zip",
+      "id": "abbd1c849f617f29aec711eed00241dd462272b4557a93c1d3a253aee4203864",
+      "size": 2225528360,
+      "url": "https://dl.genesisos.dev/0:/beryllium/GenesisOS-4.0-Verve-beryllium-OFFICIAL-20241105-1449.zip",
+      "version": "Verve",
+      "devicename": "Poco F1",
+      "maintainer": "Akshat"
+    }
+  ]
+}
