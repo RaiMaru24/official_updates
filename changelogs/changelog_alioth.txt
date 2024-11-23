@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F3/ Mi 11x
+Device maintainer: Perses x Pain
+
+=====  23 November 2024 =====
+
+* Initial Verve Build
