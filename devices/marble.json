@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1732330595,
+      "filename": "GenesisOS-4.0-Verve-marble-OFFICIAL-20241123-0256.zip",
+      "id": "55e2f3a04d166c42a95903d7c88bf09fb15841a3cad0157e79bc3fd2fcf03341",
+      "size": 2579887545,
+      "url": "https://dl.genesisos.dev/0:/marble/GenesisOS-4.0-Verve-marble-OFFICIAL-20241123-0256.zip",
+      "version": "Verve",
+      "devicename": "Poco F5",
+      "maintainer": "Prajwal x Talha"
+    }
+  ]
+}
