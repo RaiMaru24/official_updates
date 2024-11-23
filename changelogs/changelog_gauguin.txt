@@ -3,6 +3,9 @@ Build type: Stable
 Device: Redmi Note 9 5G / Mi 10T Lite / Mi 10i
 Device maintainer: Penguin
 
+===== 23 November 2024 =====
+* Updated Adreno Stack
+
 =====  4 November 2024 =====
 
 * Inital Verve build
