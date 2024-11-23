@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1730742206,
-      "filename": "GenesisOS-4.0-Verve-gauguin-OFFICIAL-20241104-1743.zip",
-      "id": "3bcf3ed8b83b434379c9ec298db3ba3168d59a6fc19a19d7a25c2c5ac9cb46d0",
-      "size": 2334225270,
-      "url": "https://dl.genesisos.dev/0:/gauguin/GenesisOS-4.0-Verve-gauguin-OFFICIAL-20241104-1743.zip",
+      "datetime": 1732362045,
+      "filename": "GenesisOS-4.0-Verve-gauguin-OFFICIAL-20241123-1142.zip",
+      "id": "373e4d0222d690e24908e94d969f3c5273417b2c752ad9284391d6b1037bd154",
+      "size": 2364684632,
+      "url": "https://dl.genesisos.dev/0:/gauguin/GenesisOS-4.0-Verve-gauguin-OFFICIAL-20241123-1142.zip",
       "version": "Verve",
       "devicename": "Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i",
       "maintainer": "Penguin"
