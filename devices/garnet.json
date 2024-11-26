@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1732608724,
+      "filename": "GenesisOS-4.0-Verve-garnet-OFFICIAL-20241126-0815.zip",
+      "id": "deb8b1070a6b1442ddceef28d1a5b93a5e1552a8d017395f7c99520610112161",
+      "size": 2390627924,
+      "url": "https://dl.genesisos.dev/0:/garnet/GenesisOS-4.0-Verve-garnet-OFFICIAL-20241126-0815.zip",
+      "version": "Verve",
+      "devicename": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "maintainer": "Ayush"
+    }
+  ]
+}
