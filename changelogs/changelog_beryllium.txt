@@ -3,6 +3,12 @@ Build type: Stable
 Device: Poco F1
 Device maintainer: Akshat
 
+=====  25 November 2024 =====
+
+* Addressed powerstats denials
+* Improved thermals and smoothness
+* Many misc improvements
+
 =====  05 November 2024 =====
 
 * Initial Verve Build
