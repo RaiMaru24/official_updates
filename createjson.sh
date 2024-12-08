@@ -29,11 +29,11 @@ zip=""            # e.g., GenesisOS-4.0-Verve-garnet-OFFICIAL-20241105-0818.zip
 # -----------------------------
 # Auto-generated Values
 # -----------------------------
-script_path="${PWD}/.."
-zip_name="${script_path}/out/target/product/${codename}/${zip}"
-buildprop="${script_path}/out/target/product/${codename}/system/build.prop"
-output_json="${script_path}/official_updates/devices/${codename}.json"
-device_folder="${script_path}/official_updates/devices"
+script_path="${PWD}"
+zip_name="${script_path}/../out/target/product/${codename}/${zip}"
+buildprop="${script_path}/../out/target/product/${codename}/system/build.prop"
+output_json="${script_path}/devices/${codename}.json"
+device_folder="${script_path}/devices"
 
 # Create device folder if it doesn't exist
 if [ ! -d "$device_folder" ]; then
