@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1732563366,
-      "filename": "GenesisOS-4.0-Verve-beryllium-OFFICIAL-20241125-1936.zip",
-      "id": "7bc11fc4e8e8a0d25a421de3a05305f830a88eb2f1572f19330cc4f656d99f57",
-      "size": 2174116406,
-      "url": "https://dl.genesisos.dev/0:/beryllium/GenesisOS-4.0-Verve-beryllium-OFFICIAL-20241125-1936.zip",
+      "datetime": 1744872875,
+      "filename": "GenesisOS-4.2-Verve-beryllium-OFFICIAL-20250417-0658.zip",
+      "id": "5048357ca9095ed8396e0321190fe3dc216501636931fbff03eab061dc994e35",
+      "size": 2231232615,
+      "url": "https://dl.genesisos.dev/0:/beryllium/GenesisOS-4.2-Verve-beryllium-OFFICIAL-20250417-0658.zip",
       "version": "Verve",
       "devicename": "Poco F1",
       "maintainer": "Akshat"
