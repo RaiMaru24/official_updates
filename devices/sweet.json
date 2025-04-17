@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1732640153,
-      "filename": "GenesisOS-4.0-Verve-sweet-OFFICIAL-20241126-1655.zip",
-      "id": "e04de862a42d769b907b7f6f06221c00371943e1a1def0260c6b3b94a275ab8d",
-      "size": 2354506158,
-      "url": "https://dl.genesisos.dev/0:/sweet/GenesisOS-4.0-Verve-sweet-OFFICIAL-20241126-1655.zip",
+      "datetime": 1744805850,
+      "filename": "GenesisOS-4.2-Verve-sweet-OFFICIAL-20250416-1222.zip",
+      "id": "2dac2b84afd7ee61de89ef2e5c95e8a440646619bb35205f66a21a8c3884e7b6",
+      "size": 2416756647,
+      "url": "https://dl.genesisos.dev/0:/sweet/GenesisOS-4.2-Verve-sweet-OFFICIAL-20250416-1222.zip",
       "version": "Verve",
       "devicename": "Redmi Note 10 Pro",
       "maintainer": "Alen"
