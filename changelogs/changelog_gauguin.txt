@@ -3,6 +3,10 @@ Build type: Stable
 Device: Redmi Note 9 5G / Mi 10T Lite / Mi 10i
 Device maintainer: Penguin
 
+===== 17 April 2025 ========
+* Dropped OMX Codecs
+* Updated Audio HAL
+
 ===== 23 November 2024 =====
 * Updated Adreno Stack
 
