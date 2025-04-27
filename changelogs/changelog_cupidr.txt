@@ -3,6 +3,13 @@ Build type: Stable
 Device: Realme GT 5G
 Device maintainer: MNoxx74
 
+=====  27 April 2025 =====
+
+* Switch to oss audio HAL
+* Disable OMX service
+* Support secure NFC for all SKUs
+* Setup DeviceAsWebcam
+
 =====  5 November 2024 =====
 
 * Inital Verve build
