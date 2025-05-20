@@ -3,6 +3,10 @@ Build type: Stable
 Device: Redmi Note 10 Pro
 Device maintainer: Alen
 
+===== 20 May 2025 =====
+
+* Added Detection for Refreshrate Switching
+
 ===== 17 April 2025 =====
 
 * Disable OMX service
